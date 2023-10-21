@@ -181,7 +181,7 @@
                   <li><span class="pro-title"> 興趣 </span> <span class="pro-detail">玩電腦</span></li>                   
                 </ul>
               </div>
-              <a href="modify.php" class="btn btn-common"><i class="icon-paper-clip"></i> 修改資料</a>
+              <a href="modify.php" class="btn btn-common"><i class="icon-paper-clip"></i> 修改资料</a>
             </div>
           </div>   
         </div>
