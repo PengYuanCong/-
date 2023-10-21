@@ -276,21 +276,6 @@ session_start();
                 <h2 class="head-title wow fadeInUp" data-wow-delay="0.4s">會員登入</h2>
                 <p class="script-font wow fadeInUp" data-wow-delay="0.6s">讓我們陪伴你每一趟旅行</p>
                 <ul class="social-icon wow fadeInUp" data-wow-delay="0.8s">
-                  <li>
-                    <a class="facebook" href="#"><i class="icon-social-facebook"></i></a>
-                  </li>
-                  <li>
-                    <a class="twitter" href="#"><i class="icon-social-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a class="instagram" href="#"><i class="icon-social-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a class="linkedin" href="#"><i class="icon-social-linkedin"></i></a>
-                  </li>
-                  <li>
-                    <a class="google" href="#"><i class="icon-social-google"></i></a>
-                  </li>
                 </ul>
               </div>
             </div>
