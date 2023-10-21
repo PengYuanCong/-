@@ -22,9 +22,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             WHERE user_id=1"; // 假设您的用户ID是1
 
     if ($conn->query($sql) === TRUE) {
-        echo "个人资料已成功更新";
+        echo "個人資料已成功更新";
     } else {
-        echo "错误: " . $sql . "<br>" . $conn->error;
+        echo "錯誤: " . $sql . "<br>" . $conn->error;
     }
 }
 
